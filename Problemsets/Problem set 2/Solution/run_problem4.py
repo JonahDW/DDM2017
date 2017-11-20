@@ -26,7 +26,7 @@ def discrete_integrate(trace, lnprob):
     return val
 
 # Get the data
-data = u.pickle_from_file('data-for-poly-test.pkl')
+data = u.pickle_from_file('../data-for-poly-test.pkl')
 x, y, sigma_y = (data['x'], data['y'], data['sigma_y'])
 data = (x, y, sigma_y)
     

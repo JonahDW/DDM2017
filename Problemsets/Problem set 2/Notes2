@@ -1,0 +1,10 @@
+#Visualization and summaries
+a) All the tables have the same means and standard deviations
+b) 2D - plots look very different
+c) See plot, violin and KDE shows that they are different in x (probably in y as well)
+
+#Basic use of emcee
+Output similar to what Jarle found (I think)
+
+#Choosing models
+b) The maximum likelihood decreases with n, does not give a solid indication as to what the best fit would be.
